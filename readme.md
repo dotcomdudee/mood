@@ -4,7 +4,6 @@
 
 [https://mood.sh](https://mood.sh)
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS)
 
 ## 💫 Overview
