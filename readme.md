@@ -8,7 +8,8 @@
 
 ## 💫 Overview
 
-**mood.sh** is a unique search engine that helps users discover films, books, music, games, and more based on how they want to feel. Simply input your desired mood, and mood.sh provides tailored recommendations to help you experience that emotion.
+**mood.sh** is a unique search engine that helps users discover films, books, music, games, and more based on how they want to feel.
+Simply input your desired mood, and mood.sh provides tailored recommendations to help you experience that emotion.
 
 ## ✨ Features
 
@@ -31,7 +32,7 @@
 
 - No personal data collection
 - No cookies required
-- Minimal tracking for improving service quality
+- Minimal non intrusive and GDPR compliant tracking
 - Mood searches are not linked to identifiable information
 
 ## 📜 License
@@ -40,7 +41,7 @@ Proprietary. All rights reserved.
 
 ## 📞 Contact
 
-For inquiries about mood.sh, please contact [team@mood.sh](mailto:team@mood.sh)
+For inquiries about mood.sh, please contact [hello@mood.sh](mailto:hello@mood.sh)
 
 ---
 
